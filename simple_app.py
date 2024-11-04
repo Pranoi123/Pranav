@@ -1,4 +1,4 @@
-%%writefile simple_app.py
+
 
 import streamlit as st
 import plotly.express as px
